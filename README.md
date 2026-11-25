@@ -6,7 +6,7 @@ A Python-based Temperature Conversion Application that converts temperatures bet
 
 This project was developed as **Task 01** of my Software Development Internship at **Prodigy InfoTech**.
 
-The application allows users to enter a temperature, select the original measurement unit, and instantly calculate the equivalent values in the other two temperature scales.
+The application allows users to enter a temperature, select the original measurement unit, and calculate the equivalent values in the other two temperature scales.
 
 ## ✨ Features
 
@@ -24,7 +24,6 @@ The application allows users to enter a temperature, select the original measure
 - Flask (Python Web Framework)
 - HTML
 - CSS
-- JavaScript
 
 ## 📂 Project Structure
 
@@ -32,42 +31,42 @@ The application allows users to enter a temperature, select the original measure
 Task_01_Temperature_Converter/
 │
 ├── main.py
-├── templates/
-│   └── index.html
-├── static/
-│   ├── style.css
-│   └── script.js
-│
-└── README.md
+├── README.md
+└── screenshots/
+    └── Screenshot.png
 ```
 
 ## ⚙️ Installation & Setup
 
-**1. Clone the repository**
+### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/hasratshaikh/ProdigyInfoTech-Task01-TemperatureConverter.git
 ```
 
-**2. Navigate to the project directory**
+### 2. Navigate to the project directory
 
 ```bash
-cd Task_01_Temperature_Converter
+cd ProdigyInfoTech-Task01-TemperatureConverter
 ```
 
-**3. Install Flask**
+### 3. Install Flask
 
 ```bash
 pip install flask
 ```
 
-**4. Run the application**
+### 4. Run the application
 
 ```bash
 python main.py
 ```
 
-**5. Open in your browser**
+### 5. Open the application
+
+Open the local URL displayed in your terminal.
+
+Usually:
 
 ```text
 http://127.0.0.1:5000
@@ -106,4 +105,4 @@ I would like to thank **Prodigy InfoTech** for providing this opportunity to lea
 
 ⭐ If you find this project useful, consider giving this repository a star!
 
-**#ProdigyInfoTech #Python #SoftwareDevelopment #Internship #TemperatureConverter**
+#ProdigyInfoTech #Python #SoftwareDevelopment #Internship #TemperatureConverter
